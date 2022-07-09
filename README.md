@@ -2,7 +2,7 @@
 # Build
 To build the project and get the executable file you can just run the *make* command.
 It will compile the modules individually and then link them together, resulting in the executable file named *main*.
-At this point, you're good to go and you can just run the *main* executable file.
+At this point, you're good to go and you can just run the *main* file.
 
 ## Integrantes
 >
